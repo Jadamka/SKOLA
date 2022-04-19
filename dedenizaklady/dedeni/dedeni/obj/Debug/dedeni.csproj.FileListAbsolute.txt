@@ -1,0 +1,7 @@
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\bin\Debug\dedeni.exe.config
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\bin\Debug\dedeni.exe
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\bin\Debug\dedeni.pdb
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\obj\Debug\dedeni.csproj.AssemblyReference.cache
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\obj\Debug\dedeni.csproj.CoreCompileInputs.cache
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\obj\Debug\dedeni.exe
+C:\Users\adamka.2019\Source\Repos\dedenizaklady\dedeni\dedeni\obj\Debug\dedeni.pdb

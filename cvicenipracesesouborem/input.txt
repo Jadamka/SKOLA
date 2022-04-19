@@ -1,0 +1,10 @@
+	LostArk, PC, Amazon, 1, 0
+Call of duty - Modern warfare,  PC         , Activison   , 2, 1600
+God of War 3, PS4, SantaMonica  , 3,   1200
+Horizon Forbiden West,    PS4    , Guerrilla  , 4 ,         1250
+Elden Ring	,	PC, 	FromSoftware, 5  ,   1700
+Doom Eternal,     PC,   IdSoftware, 6,    800
+     Mario Kart 8,   Switch   ,     Nintendo    ,    7,     1600
+Minecraft, PC, Mojang, 8    ,     800
+GejKars, PC,		Adamka & Hendrych      , 9   ,    80000		
+UpsideDown		,       PC     ,    Hendrych,  10, 420000
