@@ -1,0 +1,7 @@
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\bin\Debug\Vyjimky.exe.config
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\bin\Debug\Vyjimky.exe
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\bin\Debug\Vyjimky.pdb
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\obj\Debug\Vyjimky.csproj.AssemblyReference.cache
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\obj\Debug\Vyjimky.csproj.CoreCompileInputs.cache
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\obj\Debug\Vyjimky.exe
+C:\Users\adamka.2019\Source\Repos\zachycenivyjimek\Vyjimky\Vyjimky\obj\Debug\Vyjimky.pdb

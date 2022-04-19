@@ -1,0 +1,7 @@
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\bin\Debug\Metody.exe.config
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\bin\Debug\Metody.exe
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\bin\Debug\Metody.pdb
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\obj\Debug\Metody.csproj.AssemblyReference.cache
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\obj\Debug\Metody.csproj.CoreCompileInputs.cache
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\obj\Debug\Metody.exe
+C:\Users\adamka.2019\Source\Repos\metodyretezcecisla\Metody\Metody\obj\Debug\Metody.pdb

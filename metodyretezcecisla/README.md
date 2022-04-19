@@ -1,0 +1,1 @@
+Předvedení metod pro základní práci s čísly, řetězci a datumem
