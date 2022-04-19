@@ -1,0 +1,7 @@
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\bin\Debug\Program.exe.config
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\bin\Debug\Program.exe
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\bin\Debug\Program.pdb
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\obj\Debug\Program.exe
+C:\Users\adamka.2019\Source\Repos\pretypovani\Program\Program\obj\Debug\Program.pdb
