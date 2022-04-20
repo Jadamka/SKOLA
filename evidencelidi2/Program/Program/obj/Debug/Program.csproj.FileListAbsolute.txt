@@ -1,0 +1,16 @@
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\bin\Debug\Program.exe.config
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\bin\Debug\Program.exe
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\bin\Debug\Program.pdb
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\obj\Debug\Program.exe
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\obj\Debug\Program.pdb
+C:\Users\adamk\Desktop\C#\evidencelidi\Program\Program\bin\Debug\Import.txt
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\bin\Debug\Import.txt
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\bin\Debug\Program.exe.config
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\bin\Debug\Program.exe
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\bin\Debug\Program.pdb
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\obj\Debug\Program.exe
+C:\Users\adamk\Desktop\C#\evidencelidi2\Program\Program\obj\Debug\Program.pdb

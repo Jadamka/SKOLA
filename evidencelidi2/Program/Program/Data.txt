@@ -1,0 +1,2 @@
+﻿Random;Guy;1510;10;2
+Dalsi;Clovek;1200;5;3
