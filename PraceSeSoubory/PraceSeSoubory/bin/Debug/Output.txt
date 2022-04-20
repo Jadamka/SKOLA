@@ -1,0 +1,10 @@
+1;LostArk;Amazon;PC;0
+2;Call of duty - Modern warfare;Activison;PC;1600
+3;God of War 3;SantaMonica;PS4;1200
+4;Horizon Forbiden West;Guerrilla;PS4;1250
+5;Elden Ring;FromSoftware;PC;1700
+6;Doom Eternal;IdSoftware;PC;800
+7;Mario Kart 8;Nintendo;Switch;1600
+8;Minecraft;Mojang;PC;800
+9;GejKars;Adamka & Hendrych;PC;80000
+10;UpsideDown;Hendrych;PC;420000
