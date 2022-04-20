@@ -1,0 +1,7 @@
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\bin\Debug\AgeVerificator.exe.config
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\bin\Debug\AgeVerificator.exe
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\bin\Debug\AgeVerificator.pdb
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\obj\Debug\AgeVerificator.csproj.AssemblyReference.cache
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\obj\Debug\AgeVerificator.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\obj\Debug\AgeVerificator.exe
+C:\Users\adamk\Desktop\C#\AgeVerificator\AgeVerificator\obj\Debug\AgeVerificator.pdb
