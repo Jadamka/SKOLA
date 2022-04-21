@@ -1,7 +1,0 @@
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\bin\Debug\RocnikovyTest.exe.config
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\bin\Debug\RocnikovyTest.exe
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\bin\Debug\RocnikovyTest.pdb
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\obj\Debug\RocnikovyTest.csproj.AssemblyReference.cache
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\obj\Debug\RocnikovyTest.csproj.CoreCompileInputs.cache
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\obj\Debug\RocnikovyTest.exe
-C:\Users\adamka.2019\source\repos\pretypovani\RocnikovyTest\RocnikovyTest\obj\Debug\RocnikovyTest.pdb
